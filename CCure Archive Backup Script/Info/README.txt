@@ -1,4 +1,4 @@
-Automatic backup script for Cross & Crown's CCure access control database.
+Automatic backup script for CCure access control database.
 
 Built by Drew Butler.
 
